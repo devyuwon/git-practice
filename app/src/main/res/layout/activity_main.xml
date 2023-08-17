@@ -17,15 +17,7 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_margin="30dp">
-
-        <TextView
-                android:text="DELETE ME!"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView2"
-                android:textSize="30sp" />
-    </LinearLayout>
+            android:layout_margin="30dp"/>
 
     <LinearLayout
             android:orientation="horizontal"
@@ -43,21 +35,7 @@
                 android:text="TESTTTTTTTTTTTT"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView4"
-                android:layout_weight="1" />
-
-        <TextView
-                android:text="TESTTTTTTTTTTTT"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
                 android:id="@+id/textView5"
-                android:layout_weight="1" />
-
-        <TextView
-                android:text="TESTTTTTTTTTTTT"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView6"
                 android:layout_weight="1" />
 
         <TextView
