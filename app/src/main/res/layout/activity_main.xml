@@ -20,11 +20,11 @@
             android:layout_margin="30dp">
 
         <TextView
-                android:text="DELETE ME!"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView2"
-                android:textSize="30sp" />
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EunSeon"
+            android:textSize="30sp" />
     </LinearLayout>
 
 </LinearLayout>
